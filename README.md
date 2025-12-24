@@ -3,13 +3,13 @@ This program implements the Newton–Raphson method to numerically approximate t
 
 Users provide:
 
-*a mathematical function
+* a mathematical function
 
-*its derivative
+* its derivative
 
-*an initial guess
+* an initial guess
 
-*a desired precision
+* a desired precision
 
 The program iteratively applies the Newton–Raphson update formula until the approximation converges or a maximum number of iterations is reached. The final result is displayed both as a raw approximation and a rounded value.
 
